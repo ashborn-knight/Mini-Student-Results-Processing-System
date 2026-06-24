@@ -1,0 +1,14 @@
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Student Results System.exe
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Student Results System.deps.json
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Student Results System.runtimeconfig.json
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Student Results System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Student Results System.pdb
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.AssemblyInfoInputs.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.AssemblyInfo.cs
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.csproj.CoreCompileInputs.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\refint\Student Results System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.pdb
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Student Results System.genruntimeconfig.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\ref\Student Results System.dll

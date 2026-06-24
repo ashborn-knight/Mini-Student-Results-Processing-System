@@ -1,0 +1,28 @@
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.exe
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.deps.json
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.runtimeconfig.json
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.pdb
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.AssemblyInfoInputs.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.AssemblyInfo.cs
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.csproj.CoreCompileInputs.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\refint\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.pdb
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.genruntimeconfig.cache
+C:\Users\Essien\Desktop\Project\StudentResultsSystem\StudentResultsSystem\obj\Debug\net10.0\ref\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.exe
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.deps.json
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.runtimeconfig.json
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\bin\Debug\net10.0\Mini Student Results Processing System.pdb
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.AssemblyInfoInputs.cache
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.AssemblyInfo.cs
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.csproj.CoreCompileInputs.cache
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\refint\Mini Student Results Processing System.dll
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.pdb
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\Mini Student Results Processing System.genruntimeconfig.cache
+C:\Users\Essien\Desktop\Mini Student Results Processing System\StudentResultsSystem\obj\Debug\net10.0\ref\Mini Student Results Processing System.dll
