@@ -38,3 +38,85 @@ The **Mini Student Results Processing System** provides functionality to:
 ---
 
 ## 📂 Project Structure
+Mini-Student-Results-Processing-System/
+
+│
+
+├── Program.cs
+
+├── StudentResultsSystem.csproj
+
+├── bin/
+
+├── obj/
+
+└── README.md
+
+---
+
+## ▶️ How to Run
+
+### Prerequisites
+
+- Install the [.NET SDK](https://dotnet.microsoft.com/download)
+
+### Run the Application
+
+```bash
+git clone https://github.com/ashborn-knight/Mini-Student-Results-Processing-System.git
+cd Mini-Student-Results-Processing-System
+dotnet run
+```
+
+---
+
+## 📸 Sample Output
+
+
+===== MINI STUDENT RESULTS PROCESSING SYSTEM =====
+
+Enter Student Results
+View Student Report
+Exit
+
+
+---
+
+## 📊 Grading System
+
+| Average Score | Grade |
+|---------------|-------|
+| 80 – 100      | A     |
+| 70 – 79       | B     |
+| 60 – 69       | C     |
+| 50 – 59       | D     |
+| Below 50      | F     |
+
+---
+
+## 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- Console Input/Output
+- Variables and Data Types
+- Arrays and Loops
+- Conditional Statements
+- Input Validation
+- Basic Data Processing
+- Structured Program Design
+
+---
+
+## 👨‍💻 Author
+
+**Kenneth Kobina Essien Aidoo**  
+Computer Science and Engineering — Level 300  
+University of Mines and Technology, Tarkwa  
+GitHub: [ashborn-knight](https://github.com/ashborn-knight)
+
+---
+
+## 📄 License
+
+This project is for educational purposes and academic assessment only.
