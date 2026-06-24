@@ -28,21 +28,21 @@ Mathematics for Computing
 
 Grading System
 
-Average ScoreGrade80 – 100A70 – 79B60 – 69C50 – 59DBelow 50F
+Average Score      Grade80 – 100A70 – 79B60 – 69C50 – 59DBelow 50F
 
 
 Academic Status
 
-Average ScoreStatus50 and abovePassedBelow 50Failed
+Average Score               Status
+50 and above                Passed
+Below 50Failed
 
 
 How to Run
 
 Make sure you have the .NET SDK installed.
 
-bashgit clone https://github.com/ashborn-knight/CE380-Project1
-cd CE380-Project1
-dotnet run
+
 
 
 Menu Options
